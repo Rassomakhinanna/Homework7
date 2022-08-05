@@ -30,7 +30,7 @@ public class Main {
                 min = expense[i];
             }
         }
-        System.out.println("Минимальная сумма затрат за день " + min + " рублей");
+        System.out.println(" Минимальная сумма затрат за день " + min + " рублей ");
 
         // Задание 3
         double medium = (double)  sum/ arr.length;
